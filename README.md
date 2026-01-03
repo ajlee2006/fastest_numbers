@@ -1,6 +1,8 @@
 ## What's the fastest way to say each number? 
 
-'Twenty-seven' is 4 syllables, but 'three cubed' is only 2! This program calculates the least amount of syllables needed to say each number, up to a set limit. The process is as follows:
+'Twenty-seven' is 4 syllables, but 'three cubed' is only 2! This program calculates the least amount of syllables needed to say each number, as discussed in my video: https://youtu.be/Ff8qIBUu4wM
+
+The process is as follows:
 
   - Generate the original name and syllable count for each number in the range. This is in the form of 'one hundred twenty-three thousand four hundred fifty-six' for 123456.
   - Find all numbers that can be said using 1 syllable.
