@@ -146,7 +146,7 @@ def number_names_generator(leave_point,max_number):
         { "id": "+", "syllables": 1, "text": " plus ", "suffix": "", "pemdas_left": 5,"pemdas_right": 5,"pemdas_result": 5},
         { "id": "*", "syllables": 1, "text": " times ", "suffix": "", "pemdas_left": 3,"pemdas_right": 4,"pemdas_result": 4},
         { "id": "*", "syllables": 1, "text": " times ", "suffix": "", "pemdas_left": 3,"pemdas_right": 3,"pemdas_result": 3},
-        { "id": "-", "syllables": 2, "text": " minus ", "suffix": "", "pemdas_left": 5,"pemdas_right": 4,"pemdas_result": 5},
+        { "id": "-", "syllables": 1, "text": " less ", "suffix": "", "pemdas_left": 5,"pemdas_right": 4,"pemdas_result": 5},
         { "id": "/", "syllables": 2, "text": " over ", "suffix": "", "pemdas_left": 3,"pemdas_right": 2,"pemdas_result": 4},
         { "id": "fraction", "syllables": 0, "text": " ", "suffix": "s", "pemdas_left": 2,"pemdas_right": 0,"pemdas_result": 2},
         { "id": "^", "syllables": 2, "text": " to the ", "suffix": "","pemdas_left": 2, "pemdas_right": 0,"pemdas_result": 2},
